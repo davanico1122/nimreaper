@@ -1,4 +1,4 @@
-# README: NIMREAPER - Destructive Ransomware
+NIMREAPER - Destructive Ransomware
 
 **WARNING:** This malware is designed to cause **permanent damage** to target systems. Use **only** in a controlled environment with **explicit permission**.
 
